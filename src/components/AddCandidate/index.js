@@ -10,8 +10,8 @@ const mapDispatchToProps = {
 
 const AddCandidate = ({ addCandidate }) => {
   const { register, handleSubmit, reset } = useForm();
-  const onSubmit = data => {
-    addCandidate(data.name);
+  const onSubmit = async data => {
+    await addCandidate(data.name);
     reset();
   };
 
