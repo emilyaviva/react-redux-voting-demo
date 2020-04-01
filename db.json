@@ -19,16 +19,6 @@
       "id": 4,
       "name": "Steven",
       "votes": 0
-    },
-    {
-      "name": "John Cena",
-      "votes": 0,
-      "id": 5
-    },
-    {
-      "name": "Flareon",
-      "votes": 0,
-      "id": 6
     }
   ]
 }
