@@ -1,0 +1,34 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Garnet",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Amethyst",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "name": "Pearl",
+      "votes": 0
+    },
+    {
+      "id": 4,
+      "name": "Steven",
+      "votes": 0
+    },
+    {
+      "name": "John Cena",
+      "votes": 0,
+      "id": 5
+    },
+    {
+      "name": "Flareon",
+      "votes": 0,
+      "id": 6
+    }
+  ]
+}
